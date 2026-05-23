@@ -1,7 +1,7 @@
-# Inter Prediction Optimization Method for RAHT in MPEG G-PCC
+# RAHT-based Improved Inter Prediction for Geometry-based Point Cloud Compression
 
 This repository provides the source code used in the paper
-**Inter Prediction Optimization Method for RAHT in MPEG G-PCC**.
+**RAHT-based Improved Inter Prediction for Geometry-based Point Cloud Compression**.
 
 ## Repository Structure
 
